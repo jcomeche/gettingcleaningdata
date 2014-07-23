@@ -2,9 +2,9 @@ run_analysis <- function(){
   
   ## Read the Training Set
   
-  TrainingDataRaw1 <- read.table("./Data/UCI HAR Dataset/train/X_train.txt", header=F)
-  SubjectTrain <- read.table("./Data/UCI HAR Dataset/train/subject_train.txt", header=F)
-  TrainingActivityNumber <- read.table("./Data/UCI HAR Dataset/train/y_train.txt", header=F)
+  TrainingDataRaw1 <- read.table("./UCI HAR Dataset/train/X_train.txt", header=F)
+  SubjectTrain <- read.table("./UCI HAR Dataset/train/subject_train.txt", header=F)
+  TrainingActivityNumber <- read.table("./UCI HAR Dataset/train/y_train.txt", header=F)
   
   
   ## Change the name of the variables of data frames SubjectTrain and TrainingACtivityNumber
@@ -20,9 +20,9 @@ run_analysis <- function(){
   
   ## Read the Test Set
   
-  TestDataRaw1 <- read.table("./Data/UCI HAR Dataset/test/X_test.txt", header=F)
-  SubjectTest <- read.table("./Data/UCI HAR Dataset/test/subject_test.txt", header=F)
-  TestActivityNumber <- read.table("./Data/UCI HAR Dataset/test/y_test.txt", header=F)
+  TestDataRaw1 <- read.table("./UCI HAR Dataset/test/X_test.txt", header=F)
+  SubjectTest <- read.table("./UCI HAR Dataset/test/subject_test.txt", header=F)
+  TestActivityNumber <- read.table("./UCI HAR Dataset/test/y_test.txt", header=F)
   
   ## Change the name of the variables of data frames SubjectTest and TestActivityNumber
   
