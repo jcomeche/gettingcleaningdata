@@ -268,148 +268,147 @@ The names of the 68 variables, a brief explanation of their content, and the typ
 * FastFourierTransform.BodyLinearAcceleration.AxisY.Mean
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of Fast Fourier Transform applied to body linear acceleration, axis Y
 
 
 * FastFourierTransform.BodyLinearAcceleration.AxisZ.Mean
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of Fast Fourier Transform applied to body linear acceleration, axis Z
 
 
 * FastFourierTransform.BodyLinearAcceleration.AxisX.StandardDeviation
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of Fast Fourier Transform applied to body linear acceleration, axis X
 
 
 * FastFourierTransform.BodyLinearAcceleration.AxisY.StandardDeviation
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
-
+  - Content: Standard Deviation of Fast Fourier Transform applied to body linear acceleration, axis Y
 
 * FastFourierTransform.BodyLinearAcceleration.AxisZ.StandardDeviation
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of Fast Fourier Transform applied to body linear acceleration, axis Z
 
 
 * FastFourierTransform.BodyLinearAcceleration.JerkSignal.AxisX.Mean
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of Fast Fourier Transform applied to Jerk signal related to body linear acceleration, axis X
 
 
 * FastFourierTransform.BodyLinearAcceleration.JerkSignal.AxisY.Mean
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of Fast Fourier Transform applied to Jerk signal related to body linear acceleration, axis Y
 
 
 * FastFourierTransform.BodyLinearAcceleration.JerkSignal.AxisZ.Mean
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of Fast Fourier Transform applied to Jerk signal related to body linear acceleration, axis Z
 
 
 * FastFourierTransform.BodyLinearAcceleration.JerkSignal.AxisX.StandardDeviation
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of Fast Fourier Transform applied to Jerk signal related to body linear acceleration, axis X
 
 
 * FastFourierTransform.BodyLinearAcceleration.JerkSignal.AxisY.StandardDeviation
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of Fast Fourier Transform applied to Jerk signal related to body linear acceleration, axis Y
 
 
 *  FastFourierTransform.BodyLinearAcceleration.JerkSignal.AxisZ.StandardDeviation
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of Fast Fourier Transform applied to Jerk signal related to body linear acceleration, axis Z
 
 
 * FastFourierTransform.BodyAngularVelocity.Gyroscope.AxisX.Mean
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of Fast Fourier Transform applied to body angular velocity (obtained from the gyroscope), axis X
 
 
 * FastFourierTransform.BodyAngularVelocity.Gyroscope.AxisY.Mean
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of Fast Fourier Transform applied to body angular velocity (obtained from the gyroscope), axis Y
 
 
 * FastFourierTransform.BodyAngularVelocity.Gyroscope.AxisZ.Mean
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of Fast Fourier Transform applied to body angular velocity (obtained from the gyroscope), axis Z
 
 
 * FastFourierTransform.BodyAngularVelocity.Gyroscope.AxisX.StandardDeviation
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard deviation of Fast Fourier Transform applied to body angular velocity (obtained from the gyroscope), axis X
 
 
 * FastFourierTransform.BodyAngularVelocity.Gyroscope.AxisY.StandardDeviation
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard deviation of Fast Fourier Transform applied to body angular velocity (obtained from the gyroscope), axis Y
 
 
 * FastFourierTransform.BodyAngularVelocity.Gyroscope.AxisZ.StandardDeviation
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard deviation of Fast Fourier Transform applied to body angular velocity (obtained from the gyroscope), axis Z
 
 
 * FastFourierTransform.BodyLinearAcceleration.EuclideanNorm.Mean
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of Fast Fourier Transform applied to body linear acceleration (calculated using Euclidean norm)
 
 
 *  FastFourierTransform.BodyLinearAcceleration.EuclideanNorm.StandardDeviation
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard deviation of Fast Fourier Transform applied to body linear acceleration (calculated using Euclidean norm)
 
 
 * FastFourierTransform.BodyLinearAcceleration.JerkSignal.EuclideanNorm.Mean
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of Fast Fourier Transform applied to body linear acceleration (Jerk signal, calculated using Euclidean norm)
 
 
 * FastFourierTransform.BodyLinearAcceleration.JerkSignal.EuclideanNorm.StandardDeviation
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard deviation of Fast Fourier Transform applied to body linear acceleration (Jerk signal, calculated using Euclidean norm)
 
 
 * FastFourierTransform.BodyAngularVelocity.Gyroscope.EuclideanNorm.Mean
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of Fast Fourier Transform applied to body angular velocity (calculated using Euclidean norm) obtained from the gyroscope.
 
 
 * FastFourierTransform.BodyAngularVelocity.Gyroscope.EuclideanNorm.StandardDeviation
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard deviation of Fast Fourier Transform applied to body angular velocity (calculated using Euclidean norm) obtained from the gyroscope.
 
 
 * FastFourierTransform.BodyAngularVelocity.Gyroscope.JerkSignal.EuclideanNorm.Mean
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of Fast Fourier Transform applied to body angular velocity (Jerk signal, calculated using Euclidean norm) obtained from the gyroscope.
 
 
 *  FastFourierTransform.BodyAngularVelocity.Gyroscope.JerkSignal.EuclideanNorm.StandardDeviation
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard deviation of Fast Fourier Transform applied to body angular velocity (Jerk signal, calculated using Euclidean norm) obtained from the gyroscope.
