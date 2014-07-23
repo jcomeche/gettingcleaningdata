@@ -9,6 +9,7 @@ Repository created for a course project. In this file README you can find inform
    * Description of what the script will do
 
 THE FILES OF THIS REPOSITORY
+
    This repository includes three documents:
    * README.md. It includes general information about the characteristics of this repository, where the original data come from, how the original data have been manipulated, and how works the script that modifies the original data.
    * run_analysis.R. It is the script that modifies the original data. The output is a tidy data set.
@@ -19,10 +20,12 @@ DESCRIPTION OF THE RAW DATA AND IT'S SOURCE
    The original data has been organized in a directory called "UCI HAR Dataset", that contains:
    * A directory "test" with the test data
    * A directory "train" with the training data
-   * A data set "features.txt"
-   * A data set "activity_labels.txt"
+   * A data set "features.txt", which includes a list of the 561 variables measured in the original experiment
+   * A data set "activity_labels.txt", which includes the numbers (from 1 to 6) used to encode the different activities considered in the experiment (Walking, Walking-upstairs, Walking-downstairs, Sitting, Standing and Laying)
    * A text file "features.info", which explains all the variables considered in the experiment
    * A text file "README", which includes information about the experiment carried out trying to recognize human activities (Walking, Sitting, Standing...) using Smartphones.
+   
+   
    
 
 INSTRUCTIONS ON HOW TO USE THE SCRIPT
