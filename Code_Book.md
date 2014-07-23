@@ -236,216 +236,181 @@ The names of the 68 variables, a brief explanation of their content, and the typ
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.BodyAngularVelocity.Gyroscope.EuclideanNorm.Mean
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.BodyAngularVelocity.Gyroscope.EuclideanNorm.StandardDeviation
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.BodyAngularVelocity.Gyroscope.JerkSignal.EuclideanNorm.Mean
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.BodyAngularVelocity.Gyroscope.JerkSignal.EuclideanNorm.StandardDeviation
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
+* FastFourierTransform.BodyLinearAcceleration.AxisX.Mean
+  - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
+* FastFourierTransform.BodyLinearAcceleration.AxisY.Mean
+  - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* FastFourierTransform.BodyLinearAcceleration.AxisZ.Mean
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* FastFourierTransform.BodyLinearAcceleration.AxisX.StandardDeviation
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* FastFourierTransform.BodyLinearAcceleration.AxisY.StandardDeviation
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* FastFourierTransform.BodyLinearAcceleration.AxisZ.StandardDeviation
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* FastFourierTransform.BodyLinearAcceleration.JerkSignal.AxisX.Mean
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* FastFourierTransform.BodyLinearAcceleration.JerkSignal.AxisY.Mean
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* FastFourierTransform.BodyLinearAcceleration.JerkSignal.AxisZ.Mean
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* FastFourierTransform.BodyLinearAcceleration.JerkSignal.AxisX.StandardDeviation
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* FastFourierTransform.BodyLinearAcceleration.JerkSignal.AxisY.StandardDeviation
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+*  FastFourierTransform.BodyLinearAcceleration.JerkSignal.AxisZ.StandardDeviation
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* FastFourierTransform.BodyAngularVelocity.Gyroscope.AxisX.Mean
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
+  - Content:
+
+
+* FastFourierTransform.BodyAngularVelocity.Gyroscope.AxisY.Mean
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
+  - Content:
+
+
+* FastFourierTransform.BodyAngularVelocity.Gyroscope.AxisZ.Mean
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
+  - Content:
+
+
+* FastFourierTransform.BodyAngularVelocity.Gyroscope.AxisX.StandardDeviation
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
+  - Content:
+
+
+* FastFourierTransform.BodyAngularVelocity.Gyroscope.AxisY.StandardDeviation
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
+  - Content:
+
+
+* FastFourierTransform.BodyAngularVelocity.Gyroscope.AxisZ.StandardDeviation
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
+  - Content:
+
+
+* FastFourierTransform.BodyLinearAcceleration.EuclideanNorm.Mean
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
+  - Content:
+
+
+*  FastFourierTransform.BodyLinearAcceleration.EuclideanNorm.StandardDeviation
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
+  - Content:
+
+
+* FastFourierTransform.BodyLinearAcceleration.JerkSignal.EuclideanNorm.Mean
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
+  - Content:
+
+
+* FastFourierTransform.BodyLinearAcceleration.JerkSignal.EuclideanNorm.StandardDeviation
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
+  - Content:
+
+
+* FastFourierTransform.BodyAngularVelocity.Gyroscope.EuclideanNorm.Mean
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
+  - Content:
+
+
+* FastFourierTransform.BodyAngularVelocity.Gyroscope.EuclideanNorm.StandardDeviation
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
+  - Content:
+
+
+* FastFourierTransform.BodyAngularVelocity.Gyroscope.JerkSignal.EuclideanNorm.Mean
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
+  - Content:
+
+
+*  FastFourierTransform.BodyAngularVelocity.Gyroscope.JerkSignal.EuclideanNorm.StandardDeviation
+  - type of variable: numeric
+  - unit: Normalized and bounded within [-1,1]
   - Content:
