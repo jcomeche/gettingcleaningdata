@@ -57,3 +57,31 @@ The original data included in the directory called "UCI HAR Dataset" are manipul
 
 * Step 1: Read the Training Set from "UCI HAR Dataset"
 * Step 2: Change the name of the variable of data frame "subject_train" to "Subject" (called SubjectTrain in the script) and the name of the variable of data frame "y_train" to "Activity" (called TrainingACtivityNumber in the script)
+* Step 3: Merge the training data, the subject who performed each training observation, and the activity of each training observation
+* Step 4: Read the Test Set from "UCI HAR Dataset"
+* Step 5: Change the name of the variable of data frame "subject_test" to "Subject" (called SubjectTest in the script) and the name of the variable of data frame "y_test" to "Activity" (called TestActivityNumber in the script)
+* Step 6: Merge the test data, the subject who performed each test observation, and the activity of each test observation
+* Step 7: Merge the training data set and the test data set to create one data frame called DataSet, with 10299 obs. of 563 variables
+* Step 8: Extract only the measurements on the mean and standard deviation for each measurement. The result is a data frame called DataSetSub with 10299 obs. of 68 variables:
+  - All variables with the word "mean" (46) are included, except "meanFreq" (13): 33 in total, so each variable with "mean" value has its corresponding variable with "standard deviation" value
+  - All variables with "angle(....Mean)" are excluded: 7 in total
+  - All variables with the word "std" are included: 33 in total
+  - Subject and Activity are included: 2 in total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
