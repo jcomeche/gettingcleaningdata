@@ -42,7 +42,9 @@ DESCRIPTION OF THE RAW DATA AND IT'S SOURCE
 INSTRUCTIONS ON HOW TO USE THE SCRIPT
 
    The input to the script "run_analysis.R" is the original data organized in a directory called "UCI HAR Dataset" (see above). This directory "UCI HAR Dataset" must be included in the working directory.
+   
    The script "run_analysis.R" doesn't include any parameter, so you only need to make R to read and parse the script (command >source('~/run_analysis.R') in the working directory) and, after that, introduce the command in R "run_analysis()" (command >run_analysis() in the working directory).
+   
    The output will be a tidy data set called "TidyDataCourseProject.txt" written in the working directory.
 
 DESCRIPTION OF WHAT THE SCRIPT WILL DO
