@@ -15,6 +15,7 @@ THE FILES OF THIS REPOSITORY
    * run_analysis.R. It is the script that modifies the original data. The output is a tidy data set.
    * Code_Book.md. It explains the characteristics of the tidy data set obtained from running the script run_analysis.R
 
+
 DESCRIPTION OF THE RAW DATA AND IT'S SOURCE
 
    The original data was obtained through an experiment carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, there were captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The obtained dataset was randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. For more information, you can visit the following web page: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -39,6 +40,7 @@ DESCRIPTION OF THE RAW DATA AND IT'S SOURCE
    
    
 
+
 INSTRUCTIONS ON HOW TO USE THE SCRIPT
 
    The input to the script "run_analysis.R" is the original data organized in a directory called "UCI HAR Dataset" (see above). This directory "UCI HAR Dataset" must be included in the working directory.
@@ -46,5 +48,7 @@ INSTRUCTIONS ON HOW TO USE THE SCRIPT
    The script "run_analysis.R" doesn't include any parameter, so you only need to make R to read and parse the script (command >source('~/run_analysis.R') in the working directory) and, after that, introduce the command in R "run_analysis()" (command >run_analysis() in the working directory).
    
    The output will be a tidy data set called "TidyDataCourseProject.txt" written in the working directory.
+
+
 
 DESCRIPTION OF WHAT THE SCRIPT WILL DO
