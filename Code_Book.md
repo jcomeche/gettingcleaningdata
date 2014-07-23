@@ -9,11 +9,10 @@ The 180 observations correspond to data of each activity (6 in total: Walking, W
 
 The names of the 68 variables, a brief explanation of their content, and the type of the variable of this data frame are the following:
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
+* Subject
+  - type of variable:integer
+  - unit: Number within [1,30]
+  - Content: Subject who performed the experiment
 
 
 * 
