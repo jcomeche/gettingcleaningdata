@@ -9,7 +9,415 @@ The 180 observations correspond to data of each activity (6 in total: Walking, W
 
 The names of the 68 variables, a brief explanation of their content, and the type of the variable of this data frame are the following:
 
-* Name of the variable:
-  - Content:
+* 
   - type of variable:
-  - Normalized and bounded 
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
+
+
+* 
+  - type of variable:
+  - Normalized and bounded within [-1,1]
+  - Content:
