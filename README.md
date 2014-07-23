@@ -67,8 +67,10 @@ The original data included in the directory called "UCI HAR Dataset" are manipul
   - All variables with "angle(....Mean)" are excluded: 7 in total
   - All variables with the word "std" are included: 33 in total
   - Subject and Activity are included: 2 in total
-
-
+* Step 9: Change in DataSetSub all the numbers of activities by the corresponding names as appears in "UCI HAR Dataset" (file "activity_labels").
+* Step 10: Change the labels of the variables in DataSetSub (V1, V2, V3 ....) to descriptive variable names ("Time.BodyLinearAcceleration.AxisX.Mean", "Time.BodyLinearAcceleration.AxisY.Mean", "Time.BodyLinearAcceleration.AxisZ.Mean".....)
+* Step 11: Create a tidy data set with the average of each variable for each activity and each subject
+* Step 12: Record the tidy data set to the working directory (file called "TidyDataCourseProject.txt")
 
 
 
