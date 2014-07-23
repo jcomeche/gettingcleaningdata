@@ -203,66 +203,66 @@ The names of the 68 variables, a brief explanation of their content, and the typ
 * Time.BodyLinearAcceleration.EuclideanNorm.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal (calculated using Euclidean norm) related to body linear acceleration
 
 
 * Time.BodyLinearAcceleration.EuclideanNorm.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard deviation of time domain signal (calculated using Euclidean norm) related to body linear acceleration
 
 * Time.GravityAcceleration.EuclideanNorm.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal (calculated using Euclidean norm) related to gravity acceleration
 
 
 * Time.GravityAcceleration.EuclideanNorm.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard deviation of time domain signal (calculated using Euclidean norm) related to gravity acceleration
 
 
 * Time.BodyLinearAcceleration.JerkSignal.EuclideanNorm.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal (Jerk signal, calculated using Euclidean norm) related to body linear acceleration
 
 
 * Time.BodyLinearAcceleration.JerkSignal.EuclideanNorm.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard deviation of time domain signal (Jerk signal, calculated using Euclidean norm) related to body linear acceleration
 
 
 * Time.BodyAngularVelocity.Gyroscope.EuclideanNorm.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal (calculated using Euclidean norm) related to body angular velocity (obtained from the gyroscope)
 
 
 * Time.BodyAngularVelocity.Gyroscope.EuclideanNorm.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard deviation of time domain signal (calculated using Euclidean norm) related to body angular velocity (obtained from the gyroscope)
 
 
 * Time.BodyAngularVelocity.Gyroscope.JerkSignal.EuclideanNorm.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal (Jerk signal, calculated using Euclidean norm) related to body angular velocity (obtained from the gyroscope)
 
 
 * Time.BodyAngularVelocity.Gyroscope.JerkSignal.EuclideanNorm.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard deviation of time domain signal (Jerk signal, calculated using Euclidean norm) related to body angular velocity (obtained from the gyroscope)
 
 
 * FastFourierTransform.BodyLinearAcceleration.AxisX.Mean
   - type of variable: numeric
   - unit: Normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of Fast Fourier Transform applied to body linear acceleration, axis X 
 
 
 * FastFourierTransform.BodyLinearAcceleration.AxisY.Mean
