@@ -1,7 +1,7 @@
 gettingcleaningdata
 ===================
 
-Repository created for a course project. In this file you can find information about the following aspects:
+Repository created for a course project. In this file README you can find information about the following aspects:
 
    * The files of this repository
    * Description of the raw data and it's source
@@ -10,9 +10,9 @@ Repository created for a course project. In this file you can find information a
 
 THE FILES OF THIS REPOSITORY
    This repository includes three documents:
-   * README.md
-   * run_analysis.R
-   * Code_Book.md
+   * README.md. It includes general information about the characteristics of this repository, where the original data come from, how the original data have been manipulated, and how works the script that modifies the original data.
+   * run_analysis.R. It is the script that modifies the original data. The output is a tidy data set.
+   * Code_Book.md. It explains the characteristics of the tidy data set obtained from running the script run_analysis.R
 
 DESCRIPTION OF THE RAW DATA AND IT'S SOURCE
 
