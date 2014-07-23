@@ -153,99 +153,86 @@ The names of the 68 variables, a brief explanation of their content, and the typ
   - Content:
 
 
-* 
-  - type of variable:
-  - unit: Normalized and bounded within [-1,1]
+* Time.BodyAngularVelocity.Gyroscope.AxisY.StandardDeviation
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.BodyAngularVelocity.Gyroscope.AxisZ.StandardDeviation
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.BodyAngularVelocity.Gyroscope.JerkSignal.AxisX.Mean
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.BodyAngularVelocity.Gyroscope.JerkSignal.AxisY.Mean
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.BodyAngularVelocity.Gyroscope.JerkSignal.AxisZ.Mean
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.BodyAngularVelocity.Gyroscope.JerkSignal.AxisX.StandardDeviation
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.BodyAngularVelocity.Gyroscope.JerkSignal.AxisY.StandardDeviation
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.BodyAngularVelocity.Gyroscope.JerkSignal.AxisZ.StandardDeviation
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - Normalized and bounded within [-1,1]
+* Time.BodyLinearAcceleration.EuclideanNorm.Mean
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.BodyLinearAcceleration.EuclideanNorm.StandardDeviation
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
+  - Content:
+
+* Time.GravityAcceleration.EuclideanNorm.Mean
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.GravityAcceleration.EuclideanNorm.StandardDeviation
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.BodyLinearAcceleration.JerkSignal.EuclideanNorm.Mean
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.BodyLinearAcceleration.JerkSignal.EuclideanNorm.StandardDeviation
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
