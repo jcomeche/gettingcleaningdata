@@ -52,3 +52,8 @@ INSTRUCTIONS ON HOW TO USE THE SCRIPT
 
 
 DESCRIPTION OF WHAT THE SCRIPT WILL DO
+
+The original data included in the directory called "UCI HAR Dataset" are manipulated in order to get a tidy data set from them. The script "run_analysis.R" performs the following steps:
+
+* Step 1: Read the Training Set from "UCI HAR Dataset"
+* Step 2: Change the name of the variable of data frame "subject_train" to "Subject" (called SubjectTrain in the script) and the name of the variable of data frame "y_train" to "Activity" (called TrainingACtivityNumber in the script)
