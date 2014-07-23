@@ -24,182 +24,181 @@ The names of the 68 variables, a brief explanation of their content, and the typ
 * Time.BodyLinearAcceleration.AxisX.Mean 
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal related to body linear acceleration, axis X
 
 
 * Time.BodyLinearAcceleration.AxisY.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal related to body linear acceleration, axis Y
 
 
 * Time.BodyLinearAcceleration.AxisZ.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal related to body linear acceleration, axis Z
 
 
 * Time.BodyLinearAcceleration.AxisX.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of time domain signal related to body linear acceleration, axis X
 
 
 * Time.BodyLinearAcceleration.AxisY.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of time domain signal related to body linear acceleration, axis Y
 
 
 * Time.BodyLinearAcceleration.AxisZ.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of time domain signal related to body linear acceleration, axis Z
 
 
 * Time.GravityAcceleration.AxisX.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal related to gravity acceleration, axis X
 
 
 * Time.GravityAcceleration.AxisY.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal related to gravity acceleration, axis Y
 
 
 * Time.GravityAcceleration.AxisZ.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal related to gravity acceleration, axis Z
 
 
 * Time.GravityAcceleration.AxisX.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of time domain signal related to gravity acceleration, axis X
 
 
 * Time.GravityAcceleration.AxisY.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of time domain signal related to gravity acceleration, axis Y
 
 
 * Time.GravityAcceleration.AxisZ.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of time domain signal related to gravity acceleration, axis Z
 
 
 * Time.BodyLinearAcceleration.JerkSignal.AxisX.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal (Jerk signal) related to body linear acceleration, axis X
 
 
 * Time.BodyLinearAcceleration.JerkSignal.AxisY.Mean
   - type of variable: numeric
   - unit: Time normalized within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal (Jerk signal) related to body linear acceleration, axis Y
 
 
 * Time.BodyLinearAcceleration.JerkSignal.AxisZ.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal (Jerk signal) related to body linear acceleration, axis Z
 
 
 * Time.BodyLinearAcceleration.JerkSignal.AxisX.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of time domain signal (Jerk signal) related to body linear acceleration, axis X
 
 
 * Time.BodyLinearAcceleration.JerkSignal.AxisY.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of time domain signal (Jerk signal) related to body linear acceleration, axis Y
 
 
 * Time.BodyLinearAcceleration.JerkSignal.AxisZ.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of time domain signal (Jerk signal) related to body linear acceleration, axis Z
 
 
 * Time.BodyAngularVelocity.Gyroscope.AxisX.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal related to body angular velocity (obtained from the gyroscope), axis X
 
 
 * Time.BodyAngularVelocity.Gyroscope.AxisY.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal related to body angular velocity (obtained from the gyroscope), axis Y
 
 
 * Time.BodyAngularVelocity.Gyroscope.AxisZ.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal related to body angular velocity (obtained from the gyroscope), axis Z
 
 
 * Time.BodyAngularVelocity.Gyroscope.AxisX.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of time domain signal related to body angular velocity (obtained from the gyroscope), axis X
 
 
 * Time.BodyAngularVelocity.Gyroscope.AxisY.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of time domain signal related to body angular velocity (obtained from the gyroscope), axis Y
 
 
 * Time.BodyAngularVelocity.Gyroscope.AxisZ.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of time domain signal related to body angular velocity (obtained from the gyroscope), axis Z
 
 
 * Time.BodyAngularVelocity.Gyroscope.JerkSignal.AxisX.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal (Jerk signal) related to body angular velocity (obtained from the gyroscope), axis X
 
 
 * Time.BodyAngularVelocity.Gyroscope.JerkSignal.AxisY.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal (Jerk signal) related to body angular velocity (obtained from the gyroscope), axis Y
 
 
 * Time.BodyAngularVelocity.Gyroscope.JerkSignal.AxisZ.Mean
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Mean of time domain signal (Jerk signal) related to body angular velocity (obtained from the gyroscope), axis Z
 
 
 * Time.BodyAngularVelocity.Gyroscope.JerkSignal.AxisX.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of time domain signal (Jerk signal) related to body angular velocity (obtained from the gyroscope), axis X
 
 
 * Time.BodyAngularVelocity.Gyroscope.JerkSignal.AxisY.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
+  - Content: Standard Deviation of time domain signal (Jerk signal) related to body angular velocity (obtained from the gyroscope), axis Y
 
 
 * Time.BodyAngularVelocity.Gyroscope.JerkSignal.AxisZ.StandardDeviation
   - type of variable: numeric
   - unit: Time normalized and bounded within [-1,1]
-  - Content:
-
+  - Content: Standard Deviation of time domain signal (Jerk signal) related to body angular velocity (obtained from the gyroscope), axis Z
 
 * Time.BodyLinearAcceleration.EuclideanNorm.Mean
   - type of variable: numeric
