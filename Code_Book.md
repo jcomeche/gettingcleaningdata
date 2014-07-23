@@ -15,24 +15,21 @@ The names of the 68 variables, a brief explanation of their content, and the typ
   - Content: Subject who performed the experiment
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Activity
+  - type of variable:factor
+  - unit: Six categories: Walking, Walking-upstairs, Walking-downstairs, Sitting, Standing, and Laying
+  - Content: Activities performed by each subject
+
+
+* Time.BodyLinearAcceleration.AxisX.Mean 
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
-  - Content:
-
-
-* 
-  - type of variable:
-  - unit:
-  - Normalized and bounded within [-1,1]
+* Time.BodyLinearAcceleration.AxisY.Mean
+  - type of variable: numeric
+  - unit: Time normalized and bounded within [-1,1]
   - Content:
 
 
